@@ -11,6 +11,8 @@
     <modules>
         <module>Common</module>
         <module>Facebook</module>
+        <module>Amazon</module>
+        <module>FreeCRM</module>
     </modules>
 
     <dependencyManagement>
